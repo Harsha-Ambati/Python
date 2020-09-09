@@ -1,4 +1,1 @@
-This section is all about python codes
--------------------------------------------------------------------------
-My work on python and my projects
--------------------------------------------------------------------------
+### Python scripts and codes done by me
